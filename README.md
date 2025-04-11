@@ -15,7 +15,7 @@ A modern web application that allows you to download entire websites with all th
 
 ## Live Demo only Ui
 
-Try it out: [Website Scraper]((https://web-scraper-mu-cyan.vercel.app/))
+Try it out: [Website Scraper](https://web-scraper-mu-cyan.vercel.app/)
 
 ## Tech Stack
 
