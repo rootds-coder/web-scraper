@@ -1,8 +1,8 @@
-# Website Scraper
+![image](https://github.com/user-attachments/assets/e9154f7b-9aa8-40a1-a7f3-6360b5aede1f)# Website Scraper
 
 A modern web application that allows you to download entire websites with all their resources. Built with Flask and modern web technologies, this tool makes it easy to archive web pages with their assets.
 
-![Website Scraper Screenshot](static/images/screenshot.png)
+![Website Scraper Screenshot](static/images/webscrap.jpg)
 
 ## Features
 
@@ -15,7 +15,7 @@ A modern web application that allows you to download entire websites with all th
 
 ## Live Demo only Ui
 
-Try it out: [Website Scraper](https://web-scraper-five-amber.vercel.app/)
+Try it out: [Website Scraper]((https://web-scraper-mu-cyan.vercel.app/))
 
 ## Tech Stack
 
