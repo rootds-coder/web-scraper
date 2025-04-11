@@ -2,7 +2,7 @@
 
 A modern web application that allows you to download entire websites with all their resources. Built with Flask and modern web technologies, this tool makes it easy to archive web pages with their assets.
 
-![Website Scraper Screenshot](static/images/webscrap.jpg)
+
 
 ## Features
 
@@ -15,7 +15,7 @@ A modern web application that allows you to download entire websites with all th
 
 ## Live Demo only Ui
 
-Try it out: [Website Scraper](https://web-scraper-mu-cyan.vercel.app/)
+Try it out: [Website Scraper](https://web-scraper-seven-beta.vercel.app/)
 
 ## Tech Stack
 
